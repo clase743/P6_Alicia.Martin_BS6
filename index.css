@@ -1,0 +1,18 @@
+.fakeimg {
+    height: 200px;
+    background: #ffffff;
+}
+#header{
+    background-color: rgb(131, 55, 202);
+}
+body{
+    background-color: rgb(247, 201, 244);
+}
+.nstr{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
